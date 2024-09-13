@@ -25,7 +25,7 @@
       
    2. Navigate to the project directory:
       ```bash
-      Mendeleev-table
+      cd Mendeleev-table
       ```
       
    3. Open `index.html` in your browser to view the periodic table.
