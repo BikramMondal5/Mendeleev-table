@@ -60,7 +60,17 @@ h1 {
     align-items: center;
 
 }
+.logo{
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    background-image: url("logo.jpeg");
+    background-size: cover;
+    position: absolute;
+    top: 30px;
+    left: 24px;
 
+}
 .tr {
     display: flex;
     justify-content: center;
