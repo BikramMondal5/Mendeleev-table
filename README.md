@@ -30,15 +30,15 @@ This is a modern periodic table built using **HTML**, **CSS**, and **JavaScript*
    
 3. Open `index.html` in your browser to view the periodic table.
 
-##Contribution
+## Contribution
 
 Feel free to fork this repository, raise issues, or submit pull requests to add features or improve the design.
 
-##License
+## License
 
 This project is licensed under the MIT License.
 
-##Contact
+
 
 
 
