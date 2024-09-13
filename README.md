@@ -1,5 +1,4 @@
 # Mendeleev Periodic Table
-
    ## Description
    
    This is a modern periodic table built using **HTML**, **CSS**, and **JavaScript**. It visually represents all elements with hover effects, and each element is categorized into S-block, P-block, D-block, and F-block elements. The table also highlights metalloids, noble gases, and synthetic elements.
@@ -14,7 +13,7 @@
    
    - **HTML5**: Structure of the periodic table.
    - **CSS3**: Styling the elements and hover effects.
-   - **JavaScript**: For future modal interaction and functionalities.
+   - **JavaScript**: For modal interaction and functionalities.
    
    ## Installation
    
