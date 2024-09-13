@@ -10,7 +10,7 @@
    - **Element Groupings:** Differentiates between S-block, P-block, D-block, metalloids, and noble gases.
    - **Modal Interaction:** Clicking on an element will display detailed information about the element and its 3D model.
    
-   ## Technologies Used
+   ## Dependencies 
    
    - **HTML5**: Structure of the periodic table.
    - **CSS3**: Styling the elements and hover effects.
@@ -20,7 +20,7 @@
    
    1. Clone the repository:
       ```bash
-      git clone https://github.com/your-username/mendeleev-periodic-table.git
+      git clone https://github.com/BikramMondal5/Mendeleev-table.git
       ```
       
    2. Navigate to the project directory:
@@ -36,7 +36,7 @@
    
    ## License
    
-   This project is licensed under the MIT License.
+   This project is licensed under the `MIT License`.
 
 
 
