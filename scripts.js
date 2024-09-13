@@ -39,10 +39,8 @@ async function loadElementData() {
       <p><strong>Boiling Point:</strong> ${element.boil} K</p>
       <p><strong>Discovered By:</strong> ${element.discovered_by}</p>
       <p><strong>Summary:</strong> ${element.summary}</p>
-      <p><a href="${element.source}" target="_blank">More Info</a></p>
       <img src="${element.bohr_model_image}" alt="${element.name} Bohr Model" style="width: 100px; height: auto;"/>
       <a href="${element.bohr_model_3d}" target="_blank">3D Model</a>
-      <p><a href="${element.spectral_img}" target="_blank">Spectral Image</a></p>
       <button id="close-btn">Close</button>
     `;
     document.querySelector('.modal .modal-content').innerHTML = modalContent;
