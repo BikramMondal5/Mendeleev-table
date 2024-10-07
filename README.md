@@ -8,6 +8,9 @@
    - **Interactive Elements:** Hover over elements to see effects like scaling and shadows.
    - **Element Groupings:** Differentiates between S-block, P-block, D-block, metalloids, and noble gases.
    - **Modal Interaction:** Clicking on an element will display detailed information about the element and its 3D model.
+
+     ![Alt text](image.png)
+
    
    ## Dependencies 
    
